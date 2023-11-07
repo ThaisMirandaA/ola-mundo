@@ -23,12 +23,12 @@ const SobreMim = () => {
             </p>
 
             <p className={styles.paragrafo}>
-                Sou farmacêutica, formada na Universidade Federal de Ouro Preto. Logo após me formar, comecei a trabalhar na indústria farmacêutica, onde fiquei por 4 anos.   
+                Sou farmacêutica, formada na Universidade Federal de Ouro Preto. Logo após me formar, comecei trabalhar na indústria farmacêutica, onde fiquei por 4 anos.   
             </p>
 
             <p className={styles.paragrafo}>
                 Minha história com programação começou vendo meu esposo programar, eu queria entender o que estava se passando detrás daquelas letrinhas.
-                Ele começou a me explicar e eu me inscrevi em um Bootcamp de JavaScript, gostei bastante, e como não estava satisfeita na área que atuava, decidi que ficaria o restante do ano trabalhando na indústria farmacêutica e sairia em dezembro para me dedicar aos estudos e realizar minha transição de carreira.  
+                Ele começou a me explicar e eu me inscrevi em um Bootcamp de JavaScript, gostei bastante, e como não estava satisfeita na área que atuava, decidi que faria uma transição de carreira.  
             </p>
 
             <p className={styles.paragrafo}>
